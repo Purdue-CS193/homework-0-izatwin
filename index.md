@@ -1,4 +1,4 @@
-#Sean's First CS193 Homework
+# Sean's First CS193 Homework
 
 - Learn Github
 - Student ran
